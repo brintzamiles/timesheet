@@ -30,7 +30,8 @@
           employeeName,
           employeeRole,
           startDate,
-          employeeRate
+          employeeRate,
+          dateAdded: firebase.database.ServerValue.TIMESTAMP
       });
   });
 
