@@ -1,4 +1,3 @@
-<script>
   // Initialize Firebase
   var config = {
     apiKey: "AIzaSyDJ9v4tSZ43vWLLUkVfsKXo2hURB36EczQ",
@@ -51,6 +50,3 @@
       console.log("Errors handled: " + errorObject.code);
   
   });
-  
-
-</script>
