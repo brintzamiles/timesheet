@@ -18,7 +18,7 @@
   let startDate = "";
   let employeeRate = 0;
 
-  $(".submit").on("click", function(event) {
+  $(".submit-button").on("click", function(event) {
       event.preventDefault();
 
       employeeName = $("#employee-name").val().trim();
